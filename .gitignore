@@ -1,0 +1,31 @@
+# IDEs y editores
+.idea/
+.vs/
+.vscode/
+
+# Asistentes de IA
+.claude/
+.codex/
+.copilot/
+.cursor/
+.continue/
+
+# Jupyter
+.ipynb_checkpoints/
+*_ejecutado.ipynb
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.env
+.venv/
+venv/
+
+# Gráficos generados
+*.png
+
+# OS
+.DS_Store
+Thumbs.db
