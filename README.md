@@ -26,9 +26,10 @@ Archivo: `i40 (datos).csv` — 14.521 registros de equipos industriales.
 ```
 TP1/
 ├── i40 (datos).csv          # Dataset original
-├── eda_parte1.ipynb         # Notebook con la solución completa
+├── eda_Final.ipynb         # Notebook con la solución completa
 ├── TP 1 (enunciado).pdf     # Enunciado oficial
-└── README.md
+├── README.md
+└── Informe          # Informe oficial
 ```
 
 ## Contenido del notebook
@@ -60,4 +61,4 @@ numpy  |  pandas  |  matplotlib  |  seaborn  |  scikit-learn
 
 ## Cómo ejecutar
 
-Abrir `eda_parte1.ipynb` en PyCharm Professional o JupyterLab y ejecutar todas las celdas.
+Abrir `eda_Final.ipynb` en PyCharm Professional o JupyterLab y ejecutar todas las celdas.
